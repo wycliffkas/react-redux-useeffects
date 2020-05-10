@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.content button {
+  margin: 10px;
+}
+
+button {
+  margin: 10px;
+  font-size: large;
+}
